@@ -1,3 +1,3 @@
-Anonymous project for PPOPP 2018 submission.
+UWOmp++ reference code.
 
 _Under construction._
